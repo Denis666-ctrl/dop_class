@@ -1,0 +1,14 @@
+C:\Users\denis\source\repos\dop_class\dop_class\obj\Debug\net6.0\dop_class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\denis\source\repos\dop_class\dop_class\obj\Debug\net6.0\dop_class.AssemblyInfoInputs.cache
+C:\Users\denis\source\repos\dop_class\dop_class\obj\Debug\net6.0\dop_class.AssemblyInfo.cs
+C:\Users\denis\source\repos\dop_class\dop_class\obj\Debug\net6.0\dop_class.csproj.CoreCompileInputs.cache
+C:\Users\denis\source\repos\dop_class\dop_class\bin\Debug\net6.0\dop_class.exe
+C:\Users\denis\source\repos\dop_class\dop_class\bin\Debug\net6.0\dop_class.deps.json
+C:\Users\denis\source\repos\dop_class\dop_class\bin\Debug\net6.0\dop_class.runtimeconfig.json
+C:\Users\denis\source\repos\dop_class\dop_class\bin\Debug\net6.0\dop_class.dll
+C:\Users\denis\source\repos\dop_class\dop_class\bin\Debug\net6.0\dop_class.pdb
+C:\Users\denis\source\repos\dop_class\dop_class\obj\Debug\net6.0\dop_class.dll
+C:\Users\denis\source\repos\dop_class\dop_class\obj\Debug\net6.0\refint\dop_class.dll
+C:\Users\denis\source\repos\dop_class\dop_class\obj\Debug\net6.0\dop_class.pdb
+C:\Users\denis\source\repos\dop_class\dop_class\obj\Debug\net6.0\dop_class.genruntimeconfig.cache
+C:\Users\denis\source\repos\dop_class\dop_class\obj\Debug\net6.0\ref\dop_class.dll
